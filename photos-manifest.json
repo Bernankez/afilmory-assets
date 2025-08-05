@@ -1,0 +1,90 @@
+{
+  "version": "v6",
+  "data": [
+    {
+      "id": "IMG_2529",
+      "title": "IMG 2529",
+      "description": "",
+      "dateTaken": "2025-08-02T02:56:53.000Z",
+      "tags": [
+        "风景"
+      ],
+      "originalUrl": "https://gallery-bucket.keke.cc/风景/IMG_2529.HEIC",
+      "thumbnailUrl": "/thumbnails/IMG_2529.webp",
+      "thumbHash": "e3e71135828987787f7778647777887976804a0698",
+      "width": 4032,
+      "height": 3024,
+      "aspectRatio": 1.3333333333333333,
+      "s3Key": "风景/IMG_2529.HEIC",
+      "lastModified": "2025-08-05T16:52:02.701Z",
+      "size": 1516827,
+      "exif": {
+        "DateTimeOriginal": "2025-08-02T10:56:53+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 4032,
+        "ImageHeight": 3024,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "Apple",
+        "Model": "iPhone 12",
+        "Software": 17.4,
+        "ExposureTime": "1/3509",
+        "FNumber": 1.6,
+        "ExposureProgram": "Program AE",
+        "ISO": 32,
+        "ShutterSpeedValue": "1/3509",
+        "ApertureValue": 1.6,
+        "BrightnessValue": 9.944287718,
+        "ExposureCompensation": 0,
+        "Flash": "Off, Did not fire",
+        "FocalLength": "4.2 mm",
+        "ColorSpace": "Uncalibrated",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "26 mm",
+        "LensMake": "Apple",
+        "LensModel": "iPhone 12 back dual wide camera 4.2mm f/1.6",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "SensingMethod": "One-chip color area",
+        "Aperture": 1.6,
+        "ScaleFactor35efl": 6.2,
+        "ShutterSpeed": "1/3509",
+        "LightValue": 14.8,
+        "GPSAltitude": 1924.753528,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 41.036172,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 111.780342,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 55,
+        "contrast": 38,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.39
+      },
+      "isLivePhoto": true,
+      "livePhotoVideoUrl": "https://gallery-bucket.keke.cc/风景/IMG_2529.MOV",
+      "livePhotoVideoS3Key": "风景/IMG_2529.MOV",
+      "isHDR": false
+    }
+  ],
+  "cameras": [
+    {
+      "make": "Apple",
+      "model": "iPhone 12",
+      "displayName": "Apple iPhone 12"
+    }
+  ],
+  "lenses": [
+    {
+      "make": "Apple",
+      "model": "iPhone 12 back dual wide camera 4.2mm f/1.6",
+      "displayName": "Apple iPhone 12 back dual wide camera 4.2mm f/1.6"
+    }
+  ]
+}
